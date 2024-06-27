@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "Streamlit",
+        "projectKey": "Trong-eng_Deploy-applicaitions-using-Streamlit-library"
+    }
+}
